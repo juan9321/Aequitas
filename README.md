@@ -10,8 +10,7 @@ Em vez de exibir informações individuais, o sistema agrupa registros semelhant
 
 ## 🧠 Tecnologias Utilizadas  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,arduino,cpp,git,github" />
-  
+
   <br><br>
 
   | **Camada**          | **Tecnologias**                                      |
@@ -52,8 +51,6 @@ aequitas/
 ```
 
 ---
-
-
 
 
 ## 👥 Colaboradores
