@@ -59,32 +59,32 @@ aequitas/
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/c5cf0acd-8137-43b2-a02c-5d395ddd17fe" width="100px" style="border-radius:50%;" alt="Gabriel Mendes"/><br/>
-      <b>Gabriel Mendes</b><br/>
-      <a href="https://www.linkedin.com/in/gabrieldasilvamendes/">
+      <img src="https://github.com/user-attachments/assets/883db21f-6de3-4776-aede-72bdc55f0217" width="100px" style="border-radius:50%;" alt="Alan de Lima Silva"/><br/>
+      <b>Alan de Lima Silva</b><br/>
+        <a href="https://www.linkedin.com/in/magyodev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
       </a>
-      <a href="https://github.com/gabrielMendes21">
+      <a href="https://github.com/MagyoDev">
         <img alt="image" src="https://github.com/user-attachments/assets/4612c60a-9113-4dba-9329-9d2cb7cf514f" width="20"/>
       </a>
     </td>
     <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/753030cb-54ae-4372-87eb-13ba8051c173" width="100px" style="border-radius:50%;" alt="Bruno Costa Rezende"/><br/>
+      <b>Bruno Costa Rezende</b><br/>
+      <a href="https://www.linkedin.com/in/brunocrezende/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+      </a>
+      <a href="https://github.com/BrunoCRezende">
+        <img alt="image" src="https://github.com/user-attachments/assets/4612c60a-9113-4dba-9329-9d2cb7cf514f" width="20"/>
+      </a>
+    </td>
+      <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/a3fefd4c-f6eb-4a3f-8c0c-e26e2524886e" width="100px" style="border-radius:50%;" alt="Juan Farias da Rocha"/><br/>
       <b>Juan Farias da Rocha</b><br/>
-      <a href="https://www.linkedin.com/in/juan-farias-da-rocha">
+      <a href="https://github.com/juan9321">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
       </a>
       <a href="https://github.com/juan9321">
-        <img alt="image" src="https://github.com/user-attachments/assets/4612c60a-9113-4dba-9329-9d2cb7cf514f" width="20"/>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/02531667-4b8a-40be-a1ec-fe5af32bf976" width="100px" style="border-radius:50%;" alt="Victor Cardoso"/><br/>
-      <b>Victor Cardoso</b><br/>
-      <a href="https://www.linkedin.com/in/victorncardoso/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
-      </a>
-      <a href="https://github.com/vek03">
         <img alt="image" src="https://github.com/user-attachments/assets/4612c60a-9113-4dba-9329-9d2cb7cf514f" width="20"/>
       </a>
     </td>
