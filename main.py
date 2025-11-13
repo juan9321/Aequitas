@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
 # 1. Carregar CSV
-df = pd.read_csv("dados.csv")
+df = pd.read_csv("AequitasDB.csv")
 
 # 2. Remover dados sensíveis
 df = df.drop(columns=["CPF", "RG", "CNH", "PASSAPORTE", "TELEFONE", "END_RESIDENCIAL"])

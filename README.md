@@ -2,7 +2,13 @@
 
 O **Aequitas** é um projeto que aplica **Machine Learning**, com foco em **clusterização**, para **anonimizar dados pessoais**.  
 Em vez de exibir informações individuais, o sistema agrupa registros semelhantes e apresenta resultados agregados — por exemplo:  
-> “Existem 110 pessoas com o nome Arthur.”
+> 
+CLUSTER  IDADE_MEDIA     IDADE_MIN  IDADE_MAX SEXO_MAIS_COMUM           OCUPACAO_COMUM  TOTAL_PESSOAS
+0        0    27.809246         23         31               F               Aposentada          14579
+1        1    46.021712         41         56               F               Enfermeira          13541
+2        2    43.233126         37         56               M    Analista de Marketing          23305
+3        3    30.534904         23         36               M  Motorista de Aplicativo          28693
+4        4    35.790564         32         40               F         Designer Gráfico          19882
 > 
 ---
 
